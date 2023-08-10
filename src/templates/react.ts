@@ -1,6 +1,6 @@
 export const templateComponent = `import React from 'react';
 
-import styles from './{{componentName}}.module.scss';
+{{{styleImport}}}
 
 type Props = {
   example?: string
@@ -8,7 +8,7 @@ type Props = {
 
 export const {{componentName}}: React.FC<Props> = () => {
   return (
-    <div className={styles.wrap}>
+    <div className={{{className}}}>
       {{componentName}}
     </div>
   );

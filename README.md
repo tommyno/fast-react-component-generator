@@ -6,8 +6,8 @@ It will create:
 
 - A new folder
 - - {name}.tsx
-- - {name}.module.scss
-- - {name}.stories.tsx
+- - {name}.css (or .module.css | .module.scss)
+- - {name}.stories.tsx (optional)
 - - index.ts
 
 ## Demo
@@ -16,10 +16,10 @@ It will create:
 
 ## Release Notes
 
+### 1.1.0
+
+Add user selectable options for SCSS, CSS modules and Storybook.
+
 ### 1.0.0
 
-Initial release of Quick React component generator.
-
-## Roadmap
-
-- User editable settings
+Initial release of the Fast React component generator.

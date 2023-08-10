@@ -1,7 +1,7 @@
 {
   "name": "fast-react-component-generator",
   "displayName": "Fast React component generator",
-  "description": "One-click generator to create new React components based on best practices",
+  "description": "One-click generator to create new React components based on best practices.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
