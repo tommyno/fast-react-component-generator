@@ -15,7 +15,7 @@ It will create:
 ![Demo](assets/demo.gif)
 
 ## Installation
-Download on the ![Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommyno.fast-react-component-generator).
+Download on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tommyno.fast-react-component-generator).
 
 
 ## Release Notes
